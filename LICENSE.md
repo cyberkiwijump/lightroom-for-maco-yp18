@@ -1,4 +1,4 @@
-# 
+# instant Lightroom for macOS Script | template-library + collaboration-tools is the best Lightroom for macOS script, featuring template-library and collaboration-tools. Powerful,
 
 
 
